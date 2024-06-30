@@ -20,7 +20,7 @@ and [Departments](https://s3.amazonaws.com/coach-courses-us/public/courses/data-
 
 ## Tools
 
-The analysis for this project was conducted exclusively in MS Excel and Python Jupyter. Libraries used include
+The analysis for this project was conducted exclusively in MS Excel and Python Jupyter. Libraries used include:
 
   - Pandas
 
