@@ -12,4 +12,4 @@ Orders
 
 The intent of the project is to "perform an initial data and exploratory analysis of the data in order to derive insights and suggest strategies for better segmentation."
 
-_The full project brief can be found [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Immersion_Project_Brief.pdf) .
+_The full project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Immersion_Project_Brief.pdf)_.
