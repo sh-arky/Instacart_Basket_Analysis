@@ -1,5 +1,7 @@
 # Instacart Basket Analysis Project
 
+![instacart logo](https://www.instacart.com/company/wp-content/uploads/2022/03/03-Instacart-Logo-Kale-1.jpg)
+
 This is a repository of work derived during a project in which customer orders were analyzed to answer key stakeholder questions. 
 
 The intent of the project is to "perform an initial data and exploratory analysis of the data in order to derive insights and suggest strategies for better segmentation."
