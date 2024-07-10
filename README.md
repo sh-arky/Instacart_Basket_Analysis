@@ -4,7 +4,13 @@
 
 ## Info
 
-This is a repository of work derived during a project in which customer orders were analyzed to answer key stakeholder questions. 
+This is a repository of work derived during a project in which customer orders were analyzed to answer key stakeholder questions such as:
+
+- How to improve targeting for ad campaigns
+
+- Identifying and understanding underperforming sectors of the business
+
+- Developing strategies for marketing more effectively to consumers
 
 The intent of the project is to "perform an initial data and exploratory analysis of the data in order to derive insights and suggest strategies for better segmentation."
 
