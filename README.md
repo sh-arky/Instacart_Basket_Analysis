@@ -18,7 +18,7 @@ _The full project brief can be found [here](https://images.careerfoundry.com/pub
 
 ## Tools
 
-The analysis for this project was conducted exclusively in MS Excel and Python Jupyter. Libraries used include:
+The analysis for this project was conducted in Python Jupyter. Libraries used include:
 
   - Pandas
 
@@ -30,4 +30,4 @@ The analysis for this project was conducted exclusively in MS Excel and Python J
 
   - SciPy
 
-Visualizations were created in both Python and Tableau.
+Visualizations were created in both Python and Tableau. Additional analysis performed in MS Excel
