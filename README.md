@@ -16,6 +16,9 @@ The intent of the project is to "perform an initial data and exploratory analysi
 
 _The full project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Immersion_Project_Brief.pdf)_.
 
+_The datasets containing information on the products purchased through Instacart can be found [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)._
+
+
 ## Tools
 
 The analysis for this project was conducted in Python Jupyter. Libraries used include:
